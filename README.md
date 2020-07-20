@@ -1,6 +1,5 @@
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChenhuiYj)](https://github.com/chenhuiYj/chenhuiYj/blob/master/README.md)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenhuiYj&show_icons=true)
 <!--
 **chenhuiYj/ChenhuiYj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
